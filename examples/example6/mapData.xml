@@ -168,7 +168,7 @@
     -->
     
     <single_ground_image scale="2">
-        <path>../assets/groundImage.jpg</path>
+        <path>https://rafaelcastrocouto.github.io/traviso.js/examples/assets/groundImage.jpg</path>
     </single_ground_image>
     
     
