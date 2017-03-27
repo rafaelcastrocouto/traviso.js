@@ -22,7 +22,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>../assets_characters.png</filename>
+        <filename>https://rafaelcastrocouto.github.io/traviso.js/examples/assets/assets_characters.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
