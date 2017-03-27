@@ -242,7 +242,7 @@
 },
 "hero_stand_nw_0001.png":
 {
-	"frame": {"x":130,"y":1032,"w":60,"h":60},
+	"frame": {"x":385,"y":520,"w":60,"h":60},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
@@ -250,7 +250,7 @@
 },
 "hero_stand_nw_0002.png":
 {
-	"frame": {"x":130,"y":1032,"w":60,"h":60},
+	"frame": {"x":385,"y":520,"w":60,"h":60},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
@@ -258,7 +258,7 @@
 },
 "hero_stand_nw_0003.png":
 {
-	"frame": {"x":130,"y":1032,"w":60,"h":60},
+	"frame": {"x":385,"y":520,"w":60,"h":60},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
@@ -266,7 +266,7 @@
 },
 "hero_stand_nw_0004.png":
 {
-	"frame": {"x":130,"y":1032,"w":60,"h":60},
+	"frame": {"x":385,"y":520,"w":60,"h":60},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
@@ -274,7 +274,7 @@
 },
 "hero_stand_nw_0005.png":
 {
-	"frame": {"x":130,"y":1032,"w":60,"h":60},
+	"frame": {"x":385,"y":520,"w":60,"h":60},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
@@ -282,7 +282,7 @@
 },
 "hero_stand_nw_0006.png":
 {
-	"frame": {"x":130,"y":1032,"w":60,"h":60},
+	"frame": {"x":385,"y":520,"w":60,"h":60},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
