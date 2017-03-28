@@ -390,6 +390,6 @@
 	"image": "assets_skeleton.png",
 	"format": "RGBA8888",
 	"size": {"w":832,"h":1344},
-	"scale": "0.5"
+	"scale": "1.5"
 }
 }
